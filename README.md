@@ -3,7 +3,7 @@
 
 It is an E-Commerce/ Food Ordering System for customers to order food and Birthday cake and drinks through the online website.
 
-# Customer :
+# Customer
 
 • Login or create an account 
 • Verify account through registered email
